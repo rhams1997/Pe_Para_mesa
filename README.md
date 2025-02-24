@@ -30,8 +30,6 @@ O código OpenSCAD permite ajustar:
 ## Licença
 Este projeto é disponibilizado sob a licença MIT, permitindo uso, modificação e distribuição livremente.
 
----
 
-Caso tenhas dúvidas ou sugestões, partilha-as! 😊
 
 
